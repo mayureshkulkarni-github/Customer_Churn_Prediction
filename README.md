@@ -38,5 +38,5 @@ Both models were trained and evaluated to compare performance.
 
 > 🔍 Note: Random Forest had slightly better precision, but both models performed similarly overall.
 
-## 📁 Project Structure
+
 
